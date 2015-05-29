@@ -1,0 +1,730 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"Join",
+				"JoinForm"
+			],
+			[
+				"Email",
+				"EmailForm"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"t",
+				"template"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"sign",
+				"sign_in_one_count"
+			],
+			[
+				"s",
+				"sign_in_zero_count"
+			],
+			[
+				"gender",
+				"gender_one_count"
+			],
+			[
+				"cs",
+				"csvfile"
+			],
+			[
+				"qu",
+				"question_text"
+			],
+			[
+				"tim",
+				"timedelta"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"selec",
+				"selected_choice"
+			],
+			[
+				"q",
+				"question_id"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"nic",
+				"new_nickname"
+			],
+			[
+				"mail",
+				"mail_handler"
+			],
+			[
+				"ma",
+				"MAIL_PORT"
+			],
+			[
+				"Ma",
+				"MAIL_PASSWORD"
+			],
+			[
+				"MA",
+				"MAIL_USERNAME"
+			],
+			[
+				"error",
+				"errorhandler"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"rem",
+				"remember_me"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"b",
+				"BracketHighlighter: Enable Debug Mode"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"isntl",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jin",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vincent/taskbuster_project"
+	],
+	"file_history":
+	[
+		"/Users/vincent/Desktop/opensecret/env/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py",
+		"/Users/vincent/Desktop/opensecret/get_reps.py",
+		"/Users/vincent/Desktop/opensecret/ids.json",
+		"/Users/vincent/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vincent/Desktop/task_buster/functional_tests/all_users.py",
+		"/Users/vincent/Desktop/resume.json",
+		"/Users/vincent/Desktop/untitled.py",
+		"/Users/vincent/Desktop/coverlist/Gemfile.lock",
+		"/Users/vincent/Desktop/coverlist/config/initializers/devise.rb",
+		"/Users/vincent/Desktop/coverlist/app/views/devise/registrations/new.html.erb",
+		"/Users/vincent/Desktop/coverlist/config/secrets.yml",
+		"/Users/vincent/Desktop/coverlist/app/assets/javascripts/application.js",
+		"/Users/vincent/Desktop/coverlist/app/views/layouts/_header.html.erb",
+		"/Users/vincent/Desktop/coverlist/config/application.rb",
+		"/Users/vincent/Desktop/coverlist/config/routes.rb",
+		"/Users/vincent/Desktop/coverlist/Gemfile",
+		"/Users/vincent/Desktop/coverlist/config/initializers/omniauth.rb",
+		"/Users/vincent/Desktop/coverlist/app/views/layouts/application.html.erb",
+		"/Users/vincent/Desktop/coverlist/app/assets/components/bootstrap/less/component-animations.less",
+		"/Users/vincent/Desktop/coverlist/config/application.yml",
+		"/Users/vincent/Desktop/coverlist/app/assets/components/bootstrap/dist/js/bootstrap.min.js",
+		"/Users/vincent/Desktop/coverlist/app/models/user.rb",
+		"/Users/vincent/Desktop/coverlist/app/admin/user.rb",
+		"/Users/vincent/Desktop/coverlist/app/mailers/user_mailer.rb",
+		"/Users/vincent/Desktop/coverlist/app/assets/components/bootstrap/js/modal.js",
+		"/Users/vincent/Desktop/coverlist/app/assets/components/bootstrap/less/bootstrap.less",
+		"/Users/vincent/Desktop/coverlist/lib/book_scraper.rb",
+		"/Users/vincent/Desktop/coverlist/config/boot.rb",
+		"/Users/vincent/Desktop/coverlist/bower.json",
+		"/Users/vincent/Desktop/coverlist/lib/blurb_scraper.rb",
+		"/Users/vincent/Desktop/coverlist/app/controllers/application_controller.rb",
+		"/Users/vincent/Desktop/coverlist/app/helpers/application_helper.rb",
+		"/Users/vincent/Desktop/coverlist/db/migrate/20141213173438_create_active_admin_comments.rb",
+		"/Users/vincent/Desktop/coverlist/spec/rails_helper.rb",
+		"/Users/vincent/Desktop/coverlist/db/migrate/20130804212504_add_attachment_cover_to_book.rb",
+		"/Users/vincent/Desktop/coverlist/db/migrate/20130804152550_create_books.rb",
+		"/Users/vincent/Desktop/coverlist/db/migrate/20140721023053_create_recommendations.rb",
+		"/Users/vincent/Desktop/coverlist/config.ru",
+		"/Users/vincent/Desktop/coverlist/db/migrate/20141213173432_devise_create_admin_users.rb",
+		"/Users/vincent/Desktop/coverlist/spec/features/homepages_spec.rb",
+		"/Users/vincent/Desktop/coverlist/app/assets/components/jquery/src/var/hasOwn.js",
+		"/Users/vincent/Desktop/coverlist/lib/hachette_scraper.rb",
+		"/Users/vincent/Desktop/coverlist/test/fixtures/users.yml",
+		"/Users/vincent/Desktop/coverlist/spec/mailers/user_mailer_spec.rb",
+		"/Users/vincent/Desktop/coverlist/config/initializers/soulmate.rb",
+		"/Users/vincent/Desktop/coverlist/config/initializers/redis.rb",
+		"/Users/vincent/Desktop/coverlist/config/initializers/active_admin.rb",
+		"/Users/vincent/Desktop/coverlist/config/initializers/inflections.rb",
+		"/Users/vincent/Desktop/coverlist/app/assets/components/jquery/src/core/init.js",
+		"/Users/vincent/Desktop/coverlist/app/models/ability.rb",
+		"/Users/vincent/Desktop/coverlist/app/assets/components/jquery/src/css/defaultDisplay.js",
+		"/Users/vincent/Desktop/coverlist/app/assets/components/jquery/src/deferred.js",
+		"/Users/vincent/Desktop/coverlist/npm-debug.log",
+		"/Users/vincent/Desktop/coverlist/config/database.yml",
+		"/Users/vincent/Desktop/coverlist/db/migrate/20140420003553_add_details_to_users.rb",
+		"/Users/vincent/Desktop/omniauthtest/Gemfile",
+		"/Users/vincent/Desktop/cfe/lwc/lwc/manage.py",
+		"/Users/vincent/Desktop/cfe/lwc/lwc/joins/views.py",
+		"/Users/vincent/Desktop/cfe/lwc/lwc/lwc/views.py",
+		"/Users/vincent/Desktop/cfe/lwc/lwc/templates/base.html",
+		"/Users/vincent/Desktop/cfe/lwc/lwc/templates/navbar.html",
+		"/Users/vincent/Desktop/cfe/lwc/lib/python2.7/encodings/string_escape.py",
+		"/Users/vincent/Desktop/cfe/lwc/templates/home.html",
+		"/Users/vincent/Desktop/cfe/lwc/include/python2.7/ucnhash.h",
+		"/Users/vincent/.vimrc",
+		"/Users/vincent/Desktop/mongo_university/chapter_2_crud.3da6a46d8250/homework_2_2/hw2.py",
+		"/Users/vincent/Desktop/microblog/flask/lib/python2.7/encodings/utf_8_sig.py",
+		"/Users/vincent/Desktop/microblog/app/tests.py",
+		"/Users/vincent/Desktop/microblog/tests.py",
+		"/Users/vincent/Desktop/microblog/flask/lib/python2.7/site-packages/babel/localedata/ti_ER.dat",
+		"/Users/vincent/Desktop/microblog/flask/lib/python2.7/site-packages/babel/localedata/en_DM.dat",
+		"/Users/vincent/Desktop/microblog/app/templates/edit.html",
+		"/Users/vincent/Desktop/microblog/app/models.py",
+		"/Users/vincent/Desktop/microblog/app/__init__.py",
+		"/Users/vincent/Desktop/microblog/app/views.py",
+		"/Users/vincent/Desktop/microblog/app/templates/base.html",
+		"/Users/vincent/Desktop/microblog/app/templates/user.html",
+		"/Users/vincent/Desktop/microblog/app/templates/404.html",
+		"/Users/vincent/Desktop/microblog/app/templates/500.html",
+		"/Users/vincent/Desktop/microblog/config.py",
+		"/Users/vincent/Desktop/microblog/run.py",
+		"/Users/vincent/Desktop/microblog/app/templates/post.html",
+		"/Users/vincent/Desktop/microblog/app/forms.py",
+		"/Users/vincent/Desktop/microblog/db_create.py",
+		"/Users/vincent/Desktop/microblog/db_downgrade.py",
+		"/Users/vincent/Desktop/microblog/db_upgrade.py",
+		"/Users/vincent/Desktop/microblog/db_migrate.py",
+		"/Users/vincent/Desktop/microblog/app/templates/login.html",
+		"/Users/vincent/Desktop/microblog/flask/include/python2.7/modsupport.h",
+		"/Users/vincent/Desktop/microblog/flask/bin/migrate",
+		"/Users/vincent/Desktop/microblog/flask/lib/python2.7/site-packages/sqlalchemy/dialects/oracle/cx_oracle.py",
+		"/Users/vincent/Desktop/microblog/flask/lib/python2.7/site-packages/pytz/zoneinfo/America/Buenos_Aires",
+		"/Users/vincent/Desktop/microblog/app/templates/index.html",
+		"/Users/vincent/Desktop/microblog/flask/lib/python2.7/site-packages/babel/localedata/ig_NG.dat",
+		"/Users/vincent/Desktop/microblog/flask/lib/python2.7/site-packages/setuptools/command/install_egg_info.py",
+		"/Users/vincent/Desktop/microblog/LICENSE",
+		"/Users/vincent/Desktop/microblog/flask/lib/python2.7/site-packages/coverage/config.py",
+		"/Users/vincent/Desktop/microblog/flask/lib/python2.7/config/config.c",
+		"/Users/vincent/Desktop/microblog/flask/bin/coverage",
+		"/Users/vincent/Desktop/rizzuto/app/models/photo.rb",
+		"/Users/vincent/Desktop/rizzuto/config/application.rb",
+		"/Users/vincent/Desktop/rizzuto/Rakefile"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reps_as_json",
+			"experience-item",
+			"Hind",
+			"small",
+			"twitter",
+			"FACEBOOK_APP_ID: \"1560900747511171\"\nFACEBOOK_APP_SECRET: \"8dc05965c6fc1f3c5194cf119d99b6b2\"",
+			"ENV",
+			"GMAIL_DOMAIN",
+			"boots",
+			"boot",
+			"modal",
+			"bootstrap-modal",
+			"boostrap-modal",
+			"dev",
+			"    \n",
+			"gmail_us",
+			"action_mailer",
+			"config.action",
+			"defaults.js",
+			"defaults",
+			"top_three",
+			"analytic",
+			"gtm",
+			"hachette",
+			"Count\"",
+			"Count",
+			"= 0",
+			"	",
+			"post",
+			"	",
+			"sb0",
+			"py",
+			"lint",
+			"debug",
+			"setLabel",
+			")",
+			"opeid",
+			"buildings",
+			"companies",
+			"integer",
+			"sass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    \n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Taskbuster_project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"app/controllers/omniauth_callbacks_controller.rb"
+			],
+			[
+				"g",
+				"Gemfile.lock"
+			],
+			[
+				"sec",
+				"config/secrets.yml"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"om",
+				"app/controllers/omniauth_callbacks_controller.rb"
+			],
+			[
+				"applica",
+				"config/application.yml"
+			],
+			[
+				"application",
+				"config/application.rb"
+			],
+			[
+				"app",
+				"config/application.yml"
+			],
+			[
+				"application.r",
+				"config/application.rb"
+			],
+			[
+				"omi",
+				"config/initializers/omniauth.rb"
+			],
+			[
+				"devi",
+				"config/initializers/devise.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"applic",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"usr.rb",
+				"app/models/user.rb"
+			],
+			[
+				"devise",
+				"config/initializers/devise.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"gme",
+				"Gemfile"
+			],
+			[
+				"application.y",
+				"config/application.yml"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"application_hel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"admin",
+				"app/models/admin_user.rb"
+			],
+			[
+				"active",
+				"config/initializers/active_admin.rb"
+			],
+			[
+				"create_ad",
+				"db/migrate/20141213173432_devise_create_admin_users.rb"
+			],
+			[
+				"home",
+				"app/views/pages/home.html.erb"
+			],
+			[
+				"blurb",
+				"lib/blurb_scraper.rb"
+			],
+			[
+				"appli",
+				"config/application.yml"
+			],
+			[
+				"initializers/",
+				"config/initializers/active_admin.rb"
+			],
+			[
+				"a",
+				"config/application.yml"
+			],
+			[
+				"set",
+				"lwc/lwc/settings.py"
+			],
+			[
+				"urls",
+				"lwc/lwc/urls.py"
+			],
+			[
+				"tes",
+				"tests.py"
+			],
+			[
+				"edi",
+				"app/templates/edit.html"
+			],
+			[
+				"view",
+				"app/views.py"
+			],
+			[
+				"__in",
+				"app/__init__.py"
+			],
+			[
+				"conf",
+				"config.py"
+			],
+			[
+				"mod",
+				"app/models.py"
+			],
+			[
+				"c",
+				"config.py"
+			],
+			[
+				"base",
+				"app/templates/base.html"
+			],
+			[
+				"__",
+				"app/__init__.py"
+			],
+			[
+				"log",
+				"app/templates/login.html"
+			],
+			[
+				"p",
+				"app/models/photo.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"application.ht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"gemif",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 92.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
